@@ -1,3 +1,5 @@
+
+
 Graduate-level engineer specializing in **test systems, automation, and hardware–software integration**. Experienced in transforming manual, error-prone processes into **repeatable, instrumented, and operator-friendly systems**. Strong background in **design–build–test**, troubleshooting, and lab-to-production thinking.
 
 ---
@@ -35,14 +37,9 @@ The existing system required operators to manually run multiple scripts in seque
 - Data acquisition supporting surface roughness and morphology analysis  
 
 **Tools & Technologies**
-- LabVIEW (automation, UI, sequencing)
 - Python (data processing and analysis)
-- Analog & digital I/O
-- Precision motion systems
-- Optical surface metrology
-
-**Why this belongs on a Test Engineer resume**  
-This project demonstrates **system integration, validation, troubleshooting, and automation**—not just research.
+- 3D modeling in Autodesk Fusion
+- Optical surface metrology (Keyence)
 
 ---
 
