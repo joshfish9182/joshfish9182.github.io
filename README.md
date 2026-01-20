@@ -1,7 +1,3 @@
-# joshfish9182.github.io
-# Joshua Fishbein  
-**Industrial & Systems Engineer | Test Engineering | Automation & Digital Manufacturing**
-
 Graduate-level engineer specializing in **test systems, automation, and hardware–software integration**. Experienced in transforming manual, error-prone processes into **repeatable, instrumented, and operator-friendly systems**. Strong background in **design–build–test**, troubleshooting, and lab-to-production thinking.
 
 ---
