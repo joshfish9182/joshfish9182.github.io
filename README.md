@@ -15,7 +15,7 @@ Background spans embedded systems, robotics integration, data acquisition, and r
 
 
 **Overview**  
-A experimental apparatus designed to support research in surface processing of selective laser melting (SLM) 3D printed parts. This system replaced a manual, script-driven workflow with an integrated control solution using a SCAPS SAMlight software and USC-2 controller for laser and scan head control.
+A experimental apparatus designed to support research in surface processing of selective laser melting (SLM) 3D printed parts. This system replaced a manual, script-driven workflow with an integrated control solution using a SCAPS SAMlight software and controller for laser and scan head control.
 
 **Problem**  
 The existing system required operators to manually run multiple scripts in sequence, creating opportunities for:
@@ -26,18 +26,18 @@ The existing system required operators to manually run multiple scripts in seque
 
 **Solution**
 - Automated test sequences using a unified control interface  
-- Control of laser, scan head, and ancillary systems via SCAPS SAMlight software and USC-2 controller
+- Control of laser, scan head, and ancillary systems via SCAPS SAMlight software and controller
 - Improved and increased repeatability of test execution across users
 
 **Technical Highlights**
-- 3-axis galvanometer scan head, 1064nm ND-YAG fiber laser controlled through SAMlight
+- 3-axis galvanometer scan head and high power fiber laser controlled through SAMlight
 - Designed and machined custom kinematic coupling for repeatable sample positioning
 - Integrated ancillary systems (Shielding gas, safety interlocks, etc) to USC-2 Controller
-- Data acquisition through Keyence profilometer supporting surface roughness and morphology analysis  
+- Data acquisition through precision profilometer supporting surface roughness and morphology analysis  
 
 **Tools & Technologies**
 - Autodesk Fusion - 3D modeling
-- Optical surface metrology (Keyence)
+- Optical surface metrology
 - Python - data processing and analysis
 - SAMlight - laser and scan head control
 - 3D printing (Formlabs Form4 for resin printing, various FDM printers)
