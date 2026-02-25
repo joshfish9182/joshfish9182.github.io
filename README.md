@@ -192,7 +192,7 @@ Battery powered temperature data logger
 ## Automotive Diagnostics, Repair, and Performance Tuning
 
 
-::contentReference[oaicite:5]{index=5}
+![Suabru WRX](assets/cars/IMG_0096.JPG)
 
 
 **Overview**  
