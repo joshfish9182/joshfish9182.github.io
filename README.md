@@ -11,7 +11,7 @@ Background spans embedded systems, robotics integration, data acquisition, and r
 ## Automated Laser Manufacturing Test Platform (Master’s Thesis)
 
 
-![SLM Laser](assets/laser/ChatGPT Image Feb 10, 2026, 12_45_29 PM.png)
+![SLM Laser](assets/laser/IMG_6647-ezgif.com-optimize.gif)
 
 
 **Overview**  
