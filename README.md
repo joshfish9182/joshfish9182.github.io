@@ -47,7 +47,7 @@ The existing system required operators to manually run multiple scripts in seque
 ## Industry 4.0 Automated Storage & Retrieval System (ASRS)
 
 
-![ASRS](assets/ASRS/IMG_6644.jpg)
+![ASRS](assets/ASRS/IMG_6644.jpeg)
 
 
 **Overview**  
@@ -82,16 +82,19 @@ A lab-scale Automated Storage and Retrieval System (ASRS) with 100 physical stor
 ## Smart Plant Shelf
 
 
-
+![ASRS](assets/plant_shelf/IMG_6641.jpeg)
 
 
 **Overview**  
 A Raspberry Pi–powered plant shelf that automates lighting and supports long-running time-lapse photography. The system adjusts day length and light intensity throughout the year and is designed to run unattended for extended periods, including clean startup and recovery after power loss. Time-lapse imaging provides a visible record of plant behavior and seasonal changes.
+
 **System Capabilities**
 - Automated lighting schedule based on calculated sunrise/sunset times
 - Dynamic control of light intensity to simulate seasonal day changes
 - Custom time-lapse image capture for capturing plant movement and visual changes (View on YouTube: https://www.youtube.com/@videosofstuffhappening)
 - Automated startup and state recovery behavior after power loss
+
+![ASRS](assets/plant_shelf/False Shamrock GIF.gif)
 
 **Technical Highlights**
 - Raspberry Pi–based control system running Python automation scripts
