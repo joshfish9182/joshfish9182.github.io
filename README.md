@@ -94,7 +94,7 @@ A Raspberry Pi–powered plant shelf that automates lighting and supports long-r
 - Custom time-lapse image capture for capturing plant movement and visual changes (View on YouTube: https://www.youtube.com/@videosofstuffhappening)
 - Automated startup and state recovery behavior after power loss
 
-![ASRS](assets/plant_shelf/False Shamrock GIF.gif)
+![ASRS]("assets/plant_shelf/False Shamrock GIF.gif")
 
 **Technical Highlights**
 - Raspberry Pi–based control system running Python automation scripts
