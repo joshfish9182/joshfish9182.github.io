@@ -110,7 +110,7 @@ A Raspberry Pi–powered plant shelf that automates lighting and supports long-r
 
 ---
 
-##Technical Capabilities##
+## Technical Capabilities
 
 ---
 
