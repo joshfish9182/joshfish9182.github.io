@@ -129,7 +129,8 @@ Hands-on experience using FDM 3D printing as a rapid prototyping and iteration t
 - Firmware configuration and tuning using Klipper, including motion control, acceleration limits, and custom macros
 - Mechanical modification and troubleshooting of printers, including toolhead changes, frame stiffening, and power system upgrades
 
-**Printer Platforms**\\
+**Printer Platforms**\
+
 Sovol SV07
 - Klipper-based system used to develop firmware-level understanding and custom G-code macros
 - Implemented macros for acceleration stress testing, print-by-object workflows, and automated time-lapse capture
