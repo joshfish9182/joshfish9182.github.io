@@ -116,10 +116,6 @@ A Raspberry Pi–powered plant shelf that automates lighting and supports long-r
 
 ## 3D printing
 
-
-::contentReference[oaicite:4]{index=4}
-
-
 **Overview**  
 Hands-on experience using FDM 3D printing as a rapid prototyping and iteration tool for functional parts, fixtures, enclosures, and mechanical upgrades. 3D printing is integrated into a broader design–build–test workflow, supporting embedded systems, automation projects, and mechanical experimentation.
 
@@ -153,7 +149,7 @@ Monoprice MP10
 ## Embedded Systems & Electronics Prototyping
 
 
-::contentReference[oaicite:2]{index=2}
+![ASRS Drive Mechanism](assets/embedded systems/IMG_5758.JPEG)
 
 
 **Overview**  
@@ -218,4 +214,6 @@ Professional experience diagnosing and repairing automotive systems in a dealers
 
 
 **Resume available upon request or via application portal**
+
+
 **Email: joshfish9182@gmail.com**
