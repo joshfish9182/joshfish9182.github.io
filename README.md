@@ -215,5 +215,6 @@ Professional experience diagnosing and repairing automotive systems in a dealers
 
 **Resume available upon request or via application portal**
 
+**LinkedIn: https://www.linkedin.com/in/joshua-fishbein-693900206/**
 
 **Email: joshfish9182@gmail.com**
