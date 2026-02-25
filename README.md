@@ -47,11 +47,13 @@ The existing system required operators to manually run multiple scripts in seque
 ## Industry 4.0 Automated Storage & Retrieval System (ASRS)
 
 
-::contentReference[oaicite:1]{index=1}
+![ASRS](assets/ASRS/IMG_6644.jpg)
 
 
 **Overview**  
 A lab-scale Automated Storage and Retrieval System (ASRS) with 100 physical storage locations, developed as part of an Industry 4.0 demonstration platform. The system was designed to replace manual part handling with a repeatable, software-controlled workflow, emphasizing reliability, traceability, and integration with upstream and downstream automation.
+
+![ASRS beginning an order](assets/ASRS/IMG_5812-ezgif.com-optimize.gif)
 
 **System Capabilities**
 - Automated storage and retrieval of small parts within a lab-scale manufacturing system
@@ -80,7 +82,7 @@ A lab-scale Automated Storage and Retrieval System (ASRS) with 100 physical stor
 ## Smart Plant Shelf
 
 
-::contentReference[oaicite:3]{index=3}
+
 
 
 **Overview**  
